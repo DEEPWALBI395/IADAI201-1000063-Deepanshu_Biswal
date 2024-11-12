@@ -28,11 +28,9 @@ Step 6: Terminating the program
 The output is shown in a new window by pressing the Q button will end the video and close the new window that was open or that was used for the testing runs. To sum up, I built a dataset of pose markers from various motions after configuring the environment and downloading the required films. I then used unseen video data to test a neural network model that I had trained, and it recognized the movements with 100% accuracy. To finish the project, just press Q to turn off the video display.
 
 Output:
-
-        ![Screenshot 2024-11-12 102113](https://github.com/user-attachments/assets/c4cb0eff-f533-42ae-b2d5-6c026f274210)
+![Screenshot 2024-11-12 102113](https://github.com/user-attachments/assets/c4cb0eff-f533-42ae-b2d5-6c026f274210)
         
-
-        ![Screenshot 2024-11-12 102315](https://github.com/user-attachments/assets/5ba24625-e178-43be-b5c0-636ea09476b2)
+![Screenshot 2024-11-12 102315](https://github.com/user-attachments/assets/5ba24625-e178-43be-b5c0-636ea09476b2)
 
 link for github repositary:
 
@@ -50,7 +48,6 @@ This pose detection project's future scope presents a number of intriguing avenu
 
 6.3D Pose Estimation and Enhanced Visualization: Incorporating 3D pose estimation would allow the model to capture depth and accurately interpret complex body positions. This feature could make the model more useful in virtual reality (VR) or augmented reality (AR) applications, where 3D pose data is crucial. It could enhance user experience in VR gaming, improve interactivity in AR fitness applications, and enable more immersive educational tools for learning body mechanics.
 
-![{4864C306-D714-4041-AB88-AF199F00980F}](https://github.com/user-attachments/assets/65c2c589-51e4-4359-9eef-682058e6c27e)
 
 
         
