@@ -50,6 +50,7 @@ This pose detection project's future scope presents a number of intriguing avenu
 
 6.3D Pose Estimation and Enhanced Visualization: Incorporating 3D pose estimation would allow the model to capture depth and accurately interpret complex body positions. This feature could make the model more useful in virtual reality (VR) or augmented reality (AR) applications, where 3D pose data is crucial. It could enhance user experience in VR gaming, improve interactivity in AR fitness applications, and enable more immersive educational tools for learning body mechanics.
 
+![{4864C306-D714-4041-AB88-AF199F00980F}](https://github.com/user-attachments/assets/65c2c589-51e4-4359-9eef-682058e6c27e)
 
 
         
