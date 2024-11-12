@@ -32,7 +32,7 @@ Output:
         
 ![Screenshot 2024-11-12 102315](https://github.com/user-attachments/assets/5ba24625-e178-43be-b5c0-636ea09476b2)
 
-link for github repositary:
+link for github repositary: https://github.com/DEEPWALBI395/IADAI201-1000063-Deepanshu_Biswal
 
 This pose detection project's future scope presents a number of intriguing avenues for development and use. Here are five or six specific ideas for expanding and improving it:
 
