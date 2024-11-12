@@ -1,5 +1,3 @@
-![Screenshot 2024-11-12 102113](https://github.com/user-attachments/assets/b3d81158-b30a-4cca-bf2a-d4d8ad29302f)# IADAI201-1000063-Deepanshu_Biswal
-
 In my pose detection project, I started with a research phase to understand the key techniques required for pose detection. Then, I set up my coding environment in VS Code by installing the Jupyter Notebook and Python extensions. Using the command prompt, I installed the necessary Python libraries, including numpy, pandas, opencv-python, tensorflow, and keras, which would allow me to work with video frames, handle data, and build neural network models. I then prepared my dataset by downloading 12 videos from YouTube—4 videos for each gesture (clap, walk, and run), 3 for training the model and 1 for testing. After converting these videos to AVI format, I used this dataset to create and normalize pose landmarks.
 
 Code Explanation
@@ -24,6 +22,9 @@ Step 6: Terminating the program
 The output is shown in a new window by pressing the Q button will end the video and close the new window that was open or that was used for the testing runs. To sum up, I built a dataset of pose markers from various motions after configuring the environment and downloading the required films. I then used unseen video data to test a neural network model that I had trained, and it recognized the movements with 100% accuracy. To finish the project, just press Q to turn off the video display.
 
 Output: ![Screenshot 2024-11-12 102113](https://github.com/user-attachments/assets/c4cb0eff-f533-42ae-b2d5-6c026f274210)
+
+        ![Screenshot 2024-11-12 102315](https://github.com/user-attachments/assets/5ba24625-e178-43be-b5c0-636ea09476b2)
+
 
 
         
